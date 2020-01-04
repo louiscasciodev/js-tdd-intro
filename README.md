@@ -6,4 +6,4 @@
 + Utiliser des assertions
 + Appliquer le TDD à l ecriture d'une fonction
 + Utiliser un test runner
-+ Connaître les differents types de tests
++ Connaitre les differents types de tests
